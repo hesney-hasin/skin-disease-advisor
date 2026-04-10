@@ -91,7 +91,7 @@ RECOMMENDED ACTION
 ```
 Frontend:  Gradio + Custom CSS
 Backend:   FastAPI + Pydantic
-Model:     EfficientNet-B3 (HAM10000)
+Model:     EfficientNet-B3 
 LLM:       Google Gemini API
 Deploy:    Hugging Face Docker Space
 Image:     Pillow + OpenCV
@@ -106,7 +106,7 @@ Image:     Pillow + OpenCV
 │   ├── main.py          # FastAPI routes
 │   ├── model.py         # EfficientNet classifier
 │   ├── llm.py           # Gemini recommendations
-│   ├── schemas.py       # Pydantic models
+│   ├── schemas.py       
 │   └── utils.py
 ├── ui/gradio_app.py     # Gradio frontend
 ├── models/efficientnet_skin.pth

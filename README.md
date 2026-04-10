@@ -119,11 +119,6 @@ Image:     Pillow + OpenCV
 
 
 
-## 🎥 Demonstration Video
-
-**[YouTube/Vimeo link goes here after recording]**
-
-***
 
 
 

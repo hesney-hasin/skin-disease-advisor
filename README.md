@@ -6,7 +6,7 @@ AI-powered skin disease detection web application built with **FastAPI**, **Grad
 
 ## Live Links
 
-- **Live App:** https://hesneyhasin-skin-disease-advisor.hf.space/
+- **Live App:** [Live App](https://hesneyhasin-skin-disease-advisor.hf.space/gradio/)
 - **API Docs (Swagger):** https://hesneyhasin-skin-disease-advisor.hf.space/docs
 - **API Health Check:** https://hesneyhasin-skin-disease-advisor.hf.space/health
 - **Hugging Face Space:** [Space](https://huggingface.co/spaces/hesneyhasin/skin-disease-advisor)
